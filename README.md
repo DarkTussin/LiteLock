@@ -8,4 +8,4 @@ When encrypting, you will be prompted for a password which you enter twice.
 
 If you select "overwrite original file" (default), it will also encrypt the original file before deleting it.
 
-![LiteLock](http://i.imgur.com/jjW7MjN.png)
+![LiteLock2.1](http://i.imgur.com/WACCUiz.png)
